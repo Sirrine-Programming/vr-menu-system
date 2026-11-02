@@ -1,0 +1,14 @@
+{
+  "name": "SirrineProgramming.VRMenu",
+  "rootNamespace": "SirrineProgramming.VRMenu",
+  "references": ["UnityEngine.UI"],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
